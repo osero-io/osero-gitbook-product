@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome to the official documentation for Osero Earn, the stablecoin yield
-  infrastructure layer that lets any platform offer institutional-grade savings
+  Welcome to the official documentation for Osero Earn, stablecoin yield
+  infrastructure that lets any platform offer institutional-grade savings
   products to their users.
 layout:
   width: wide
@@ -27,7 +27,7 @@ layout:
 
 ## At a glance
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Sky Savings Rate</strong></td><td>Yield Source</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr><tr><td><strong><!-- SSR_START -->3.65%<!-- SSR_END --></strong></td><td>Earn APY</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr><tr><td><strong><!-- COLLATERAL_START -->$6.2B<!-- COLLATERAL_END --></strong></td><td>Total Savings</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Sky Savings Rate</strong></td><td>Yield Source</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr><tr><td><strong>3.65%</strong></td><td>Earn APY</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr><tr><td><strong>$6.2B</strong></td><td>Total Savings</td><td><a href="https://app.gitbook.com/s/CGGOxx2n6al0aPdL1Zq6/overview/sky-savings-rate">Sky Savings Rate</a></td></tr></tbody></table>
 
 |                           |                                                            |
 | ------------------------- | ---------------------------------------------------------- |
